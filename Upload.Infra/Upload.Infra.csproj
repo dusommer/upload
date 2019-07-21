@@ -69,7 +69,6 @@
   <ItemGroup>
     <None Include="App.config" />
     <None Include="packages.config" />
-    <None Include="ToDo.Infra.ruleset" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Upload.Domain\Upload.Domain.csproj">
